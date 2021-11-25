@@ -1,0 +1,366 @@
+[
+  {
+    "_id": "1",
+    "manufacturer": "Scott",
+    "model": "Scott Sub Active Eride Unisex 2020",
+    "description": "elektrinis miesto dviratis.",
+    "price": 2399.0,
+    "gender": "unisex",
+    "image": "scott-sub-active-eride-unisex.jpg",
+    "categories": ["electrical"],
+    "features": [
+      {
+        "key": "RĖMAS",
+        "value": "Sub eRIDE 6061 Alloy"
+      },
+      {
+        "key": "RĖMO MEDŽIAGA",
+        "value": "Alloy"
+      },
+      {
+        "key": "GREITIS",
+        "value": "25kmh"
+      },
+      {
+        "key": "BATERIJA",
+        "value": "PowerTube 400Wh"
+      },
+      {
+        "key": "PRIEKINIS AMORTIZATORIUS",
+        "value": "SUNTOUR NEX-E25 DS QR 700C STEEL TAPERED"
+      },
+      {
+        "key": "AMORTIZATORIAUS UŽRAKTAS",
+        "value": "63mm Travel"
+      },
+      {
+        "key": "ŠVIESOS",
+        "value": "Front: Axa Compactline 35 / Rear: Axa"
+      },
+      {
+        "key": "PEDALAI",
+        "value": "Syncros SP-828"
+      },
+      {
+        "key": "PAVARŲ RANKENĖLĖS",
+        "value": "Syncros UC3.0 680mm"
+      },
+      {
+        "key": "STABDŽIAI",
+        "value": "Shimano BR-M200 Disc"
+      },
+      {
+        "key": "ŠVAISTIKLIAI",
+        "value": "Shimano FC-TY501"
+      },
+      {
+        "key": "SĖDYNĖS ATRAMA",
+        "value": "Syncros 3.0 / 31.6mm / 350mm"
+      },
+      {
+        "key": "KASETĖ",
+        "value": "Shimano CS HG400 11-36"
+      },
+      {
+        "key": "GRANDINĖ",
+        "value": "KMC E9s NPBK"
+      },
+      {
+        "key": "PADANGOS",
+        "value": "Schwalbe Energizer Active Plus 700x50c"
+      },
+      {
+        "key": "PAKROVĖJAS",
+        "value": "2A Charger"
+      },
+      {
+        "key": "SVORIS",
+        "value": "28.4 kg"
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "manufacturer": "Brinckers",
+    "model": "Baxter F7",
+    "description": "moteriškas elektrinis miesto dviratis.",
+    "price": 1450.0,
+    "gender": "female",
+    "image": "brinckers-baxter-f7.jpg",
+    "categories": ["electrical"],
+    "features": [
+      {
+        "key": "VARIKLIO PADĖTIS",
+        "value": "Priekinio rato stebulė"
+      },
+      {
+        "key": "VARIKLIO SISTEMA",
+        "value": "Bafang - 250 W"
+      },
+      {
+        "key": "BATERIJA",
+        "value": "340 Wh"
+      },
+      {
+        "key": "DISTANCIJA",
+        "value": "Max. 70 km"
+      },
+      {
+        "key": "VARIKLIO VEIKIMO RĖŽIMAI",
+        "value": "5"
+      },
+      {
+        "key": "EKRANAS",
+        "value": "LED ekranas šalia rankenos (Bluetooth)"
+      },
+      {
+        "key": "PAVAROS",
+        "value": "Shimano Nexus 7-Speed vidinės"
+      },
+      {
+        "key": "STABDŽIAI",
+        "value": "V-Brake ir Rollerbrake"
+      },
+      {
+        "key": "BALNELIS",
+        "value": "Selle Royal"
+      },
+      {
+        "key": "PADANGOS",
+        "value": "Schwalbe (28 inch)"
+      },
+      {
+        "key": "SPYNA",
+        "value": "Axa"
+      },
+      {
+        "key": "RĖMAS",
+        "value": "Moteriškas"
+      },
+      {
+        "key": "RĖMO DYDIS",
+        "value": "50 (M), 54 (L)"
+      },
+      {
+        "key": "SPALVA",
+        "value": "Dark grey"
+      },
+      {
+        "key": "SVORIS",
+        "value": "~27,8 kg (su baterija)"
+      },
+      {
+        "key": "MAKS. GREITIS",
+        "value": "25 km/h"
+      },
+      {
+        "key": "GARANTIJA RĖMUI",
+        "value": "6 metai"
+      },
+      {
+        "key": "GARANTIJA BATERIJAI IR KOMPONENTAMS",
+        "value": "2 metai"
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "manufacturer": "Scott",
+    "model": "Addict CX RC XL",
+    "description": "plento dviratis sukurtas tam, kad galėtumėte važiuoti bet kokiu keliu bei oro sąlygomis. Dviratis tiesiog pats prašosi važiuoti šalta, purvina trasa. CX varžyboms pritaikyta dviračio geometrija.",
+    "price": 3499.0,
+    "gender": "male",
+    "image": "scott-addict-cx-rc-2021.jpg",
+    "categories": ["gravel"],
+    "features": [
+      {
+        "key": "RĖMAS",
+        "value": "Addict CX HMF Disc / IMP Carbon technology / CX Race geometry / Replaceable Derailleur Hanger"
+      },
+      {
+        "key": "RĖMO MEDŽIAGA",
+        "value": "Carbon"
+      },
+      {
+        "key": "PAVARŲ SKAIČIUS",
+        "value": "22"
+      },
+      {
+        "key": "PRIEKINĖ ŠAKĖ",
+        "value": "Addict CX HMF Disc // 1 1/8\"-1 1/4  tapered Carbon steere // Alloy Dropout"
+      },
+      {
+        "key": "GALINIS PERJUNGĖJAS",
+        "value": "Shimano GRX RD-RX810"
+      },
+      {
+        "key": "PRIEKINIS PERJUNGĖJAS",
+        "value": "Shimano GRX ST-RX810 Disc"
+      },
+      {
+        "key": "PAVARŲ RANKENĖLĖS",
+        "value": "Shimano GRX ST-RX810 Disc"
+      },
+      {
+        "key": "STABDŽIAI",
+        "value": "Shimano GRX BL-RX810 Disc"
+      },
+      {
+        "key": "ŠVAISTIKLIAI",
+        "value": "Shimano GRX FC-RX810-1"
+      },
+      {
+        "key": "RATAI",
+        "value": "Syncros RP2.0 Disc"
+      },
+      {
+        "key": "KASETĖ",
+        "value": "Shimano CS-HG800"
+      },
+      {
+        "key": "GRANDINĖ",
+        "value": "Shimano CN-HG701-11"
+      },
+      {
+        "key": "PADANGOS",
+        "value": "Schwalbe X-One CX Performance 35-622"
+      },
+      {
+        "key": "VAIRAS",
+        "value": "Syncros Creston Compact 2.0"
+      },
+      {
+        "key": "BALNO KOTAS",
+        "value": "Syncros Duncan 1.0"
+      },
+      {
+        "key": "BALNELIS",
+        "value": "Syncros Tofino Regular 2.0 Cutout"
+      },
+      {
+        "key": "SVORIS",
+        "value": "8.1 kg"
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "manufacturer": "Scott",
+    "model": "Speedster Gravel 30",
+    "description": "gravel dviratis.",
+    "price": 1699.0,
+    "gender": "male",
+    "image": "scott-speedster-gravel-30.jpg",
+    "categories": ["gravel"],
+    "features": [
+      {
+        "key": "RĖMAS",
+        "value": "Speedster Gravel Disc / D.Butted 6061 Alloy SCOTT Gravel geometry / Replaceable Derailleur Hanger Internal cable routing Syncros fender kit ready"
+      },
+      {
+        "key": "RĖMO MEDŽIAGA",
+        "value": "Alloy"
+      },
+      {
+        "key": "PAVARŲ SKAIČIUS",
+        "value": "20"
+      },
+      {
+        "key": "GALINIS PERJUNGĖJAS",
+        "value": "Shimano GRX RD-RX400 20 Speed"
+      },
+      {
+        "key": "PRIEKINIS PERJUNGĖJAS",
+        "value": "Shimano GRX FD-RX400-F"
+      },
+      {
+        "key": "PAVARŲ RANKENĖLĖS",
+        "value": "Shimano GRX ST-RX400 Disc 20 Speed"
+      },
+      {
+        "key": "STABDŽIAI",
+        "value": "Shimano BR-RX400 Hyd Disc"
+      },
+      {
+        "key": "ŠVAISTIKLIAI",
+        "value": "Shimano GRX FC-RX600-10 46x30T"
+      },
+      {
+        "key": "KASETĖ",
+        "value": "Shimano CS-HG500 10 Speed 11-34 T"
+      },
+      {
+        "key": "GRANDINĖ",
+        "value": "KMC X10"
+      },
+      {
+        "key": "PADANGOS",
+        "value": "Schwalbe G-ONE Bite Performance 700x45C"
+      },
+      {
+        "key": "SVORIS",
+        "value": "10.54 kg"
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "manufacturer": "Scott",
+    "model": "Sub Cross 20 Men 2021",
+    "description": "sukurtas patogumui keliauti. Priekinis amortizatorius su užraktu ir Syncros komponentais. SUB Cross yra puikiai pritaikytas jūsų kelionėms.",
+    "price": 1049.0,
+    "gender": "male",
+    "image": "scott-sub-cross-20.jpg",
+    "categories": ["cross"]
+  },
+  {
+    "_id": "6",
+    "manufacturer": "Scott",
+    "model": "Sub Cross 20 Lady 2021",
+    "description": "sukurtas patogumui keliauti. Priekinis amortizatorius su užraktu ir Syncros komponentais. SUB Cross yra puikiai pritaikytas jūsų kelionėms.",
+    "price": 1049.0,
+    "gender": "female",
+    "image": "scott-sub-cross-20-lady-2021.jpg",
+    "categories": ["cross"]
+  },
+  {
+    "_id": "7",
+    "manufacturer": "Scott",
+    "model": "Scale 910 AXS 2021",
+    "description": "vyriškas kalnų dviratis su priekiniu amortizatoriumi ir SRAM X01 AXS Eagle pavarų sistema.",
+    "price": 3999.0,
+    "gender": "male",
+    "image": "scott-scale-910-axs-280463.jpg",
+    "categories": ["mtb"]
+  },
+  {
+    "_id": "8",
+    "manufacturer": "Scott",
+    "model": "Aspect 960 2021",
+    "description": "kalnų dviratis sportui ir aktyviam laisvalaikiui.",
+    "price": 699.0,
+    "gender": "male",
+    "image": "scott-aspect-960-280563-280564.webp",
+    "categories": ["mtb"]
+  },
+  {
+    "_id": "9",
+    "manufacturer": "Bergamont",
+    "model": "Horizon N7 CB Gent",
+    "description": "miesto dviratis.",
+    "price": 749.0,
+    "gender": "male",
+    "image": "bergamont-horizon-n7-cb-gent.jpg",
+    "categories": ["city"]
+  },
+  {
+    "_id": "10",
+    "manufacturer": "Brinckers",
+    "model": "Baxter HM8",
+    "description": "elektrinis miesto dviratis.",
+    "price": 1450.0,
+    "gender": "unisex",
+    "image": "brinckers-baxter-hm8.jpg",
+    "categories": ["city", "electrical"]
+  }
+]
